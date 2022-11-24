@@ -1,0 +1,3 @@
+joinmessage: '&7Das &6Teammitglied &7hat den Server &abetreten'
+leavemessage: '&7Das &6Teammitglied &7hat den Server &cverlassen'
+perm: server.team
